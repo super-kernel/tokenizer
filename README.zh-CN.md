@@ -4,6 +4,9 @@
 
 # SuperKernel Tokenizer
 
+> [!WARNING]
+> 此包已废弃，不再维护。自 SuperKernel 1.0.0-alpha.2 起，SKERNEL 在构建项目时自行查找应用的类，应用不再安装此包。
+
 `super-kernel/tokenizer` 从 PHP 源码中提取具名类级声明的完全限定名。它使用带解析器校验的 PHP 原生词法分析器，需要 `ext-tokenizer`。
 
 ```php

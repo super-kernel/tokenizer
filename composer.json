@@ -3,6 +3,7 @@
     "description": "PHP class-like declaration tokenizer for SuperKernel.",
     "type": "library",
     "license": "MIT",
+    "abandoned": true,
     "require": {
         "php": ">=8.4.27 <8.5",
         "ext-tokenizer": "*",
