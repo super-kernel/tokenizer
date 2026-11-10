@@ -6,7 +6,7 @@
     "require": {
         "php": ">=8.4.27 <8.5",
         "ext-tokenizer": "*",
-        "super-kernel/attribute": "dev-main"
+        "super-kernel/attribute": "self.version"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.95.27",
