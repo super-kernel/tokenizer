@@ -4,6 +4,9 @@
 
 # SuperKernel Tokenizer
 
+> [!WARNING]
+> This package is deprecated and no longer maintained. Since SuperKernel 1.0.0-alpha.2, SKERNEL finds an application's classes itself when it builds the project, so applications no longer install this package.
+
 `super-kernel/tokenizer` extracts fully qualified named class-like declarations from PHP source. It uses PHP's native tokenizer with parser validation and requires `ext-tokenizer`.
 
 ```php
